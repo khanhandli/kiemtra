@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dssinhvien>
+  <sinhvien id="SV1">
+    <masv>sv01</masv>
+    <tensv>Nguyễn Như Ý</tensv>
+    <ngaysinh>17/04/2000</ngaysinh>
+    <quequan>Ha noi</quequan>
+    <diemmontinhoc>8</diemmontinhoc>
+  </sinhvien>
+  <sinhvien id="SV2">
+    <masv>sv02</masv>
+    <tensv>Nguyễn Văn A</tensv>
+    <ngaysinh>17/09/2000</ngaysinh>
+    <quequan>Nam định</quequan>
+    <diemmontinhoc>9</diemmontinhoc>
+  </sinhvien>
+  <sinhvien id="SV3">
+    <masv>sv03</masv>
+    <tensv>Nguyễn văn C</tensv>
+    <ngaysinh>27/04/2000</ngaysinh>
+    <quequan>Thái Bình</quequan>
+    <diemmontinhoc>7</diemmontinhoc>
+  </sinhvien>
+  <sinhvien id="SV4">
+    <masv>sv04</masv>
+    <tensv>Nguyễn Văn D</tensv>
+    <ngaysinh>20/08/2000</ngaysinh>
+    <quequan>Huế</quequan>
+    <diemmontinhoc>7</diemmontinhoc>
+  </sinhvien>
+  <sinhvien id="SV5">
+    <masv>sv05</masv>
+    <tensv>Nguyễn Thị E</tensv>
+    <ngaysinh>30/10/2000</ngaysinh>
+    <quequan>Hưng Yên</quequan>
+    <diemmontinhoc>6</diemmontinhoc>
+  </sinhvien>
+</dssinhvien>
